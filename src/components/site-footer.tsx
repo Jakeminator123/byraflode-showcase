@@ -13,7 +13,7 @@ export function SiteFooter() {
             href={SAJTMASKIN_BUILDER_URL}
             className="text-primary underline-offset-4 hover:underline"
           >
-            Exempelsajt skapad med Sajtmaskin · Skapa din egen
+            Baserad på ett exempel skapat med Sajtmaskin · Skapa din egen
           </a>
         </p>
       </div>

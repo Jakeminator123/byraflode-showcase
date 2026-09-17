@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Byråflöde — exempel på SaaS-marknadssajt",
     description:
-      "Showcase-revival av en Sajtmaskin-genererad SaaS-idé. Tydligt exempelprojekt, inte ett livebolag.",
+      "Showcase-revival av en SaaS-idé som ursprungligen kom från Sajtmaskin. Återskapad som exempelprojekt, inte ett livebolag.",
     locale: "sv_SE",
     type: "website",
   },
