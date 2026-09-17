@@ -11,6 +11,7 @@ Originalet (`sajtmaskin-jag-bygger-en-saas-f-r-svenska-881c7ede`) saknade git-re
 - Intern vy som illustration (`/demo`)
 - `noindex, nofollow`
 - En footer-länk + en kontextuell CTA till Sajtmaskin (`utm_source=byraflode`)
+- Attribution: *Baserad på ett exempel skapat med Sajtmaskin* (revivalen är återskapad)
 
 ## Vad sajten inte är
 
@@ -45,4 +46,8 @@ READY-commit: `06e689b`. Första bygget mot ofullständiga `bc8e4d2` är inaktue
 ## Dokumentation
 
 - `SHOWCASE_AUDIT.md` — discovery innan ändring
-- `SHOWCASE_HANDOFF.md` — efter preview + QA
+- `SHOWCASE_HANDOFF.md` — site 01 efter preview + QA
+- `SHOWCASE_PROJECTS.md` — vilket Vercel-projekt som ska behållas, DNS-förslag
+- `SHOWCASE_REVIVAL_HANDOFF.md` — alla fem sajter
+
+Site 02–05 lever i egna GitHub-repon (`springa-showcase`, `paddlelines-showcase`, `glass-showcase`, `palma-showcase`) på branch `preview`. De ligger lokalt under `sites/` och är gitignorade här.

@@ -1,7 +1,7 @@
 # SHOWCASE HANDOFF — Site 01 Byråflöde
 
 Datum: 2026-09-17  
-Scope: endast site 01. Site 02+ orörd.
+Scope: site 01 (kvalitetsreferens). Site 02–05: se `SHOWCASE_REVIVAL_HANDOFF.md`.
 
 ## Identitet
 
@@ -48,7 +48,7 @@ Kvar som tydligt mönster:
 
 | Placering | Text | UTM |
 |---|---|---|
-| Footer | Exempelsajt skapad med Sajtmaskin · Skapa din egen | `utm_source=byraflode` |
+| Footer | Baserad på ett exempel skapat med Sajtmaskin · Skapa din egen | `utm_source=byraflode` |
 | CTA efter assistent | Behöver du en marknadssajt för din egen tjänst? | samma |
 
 Länk: `https://sajtmaskin.se/builder?new=1&utm_source=byraflode&utm_medium=showcase&utm_campaign=showcase_revival`
@@ -81,9 +81,10 @@ Exakt två länkar på landningen. Inga extra CTA på `/login` eller `/demo` (ba
 
 ## Rekommendation
 
-**keep noindex**
+**keep noindex** tills separat beslut.
 
-Inte publish candidate mot sök. Kan visas som intern showcase-länk.
-Ingen manuell copy krävs för den användningen.
+Behåll Vercel-projektet `byraflode-showcase`. `byraflode-revival` och `byraflode` är dubletter mot samma GitHub-repo — radera inte, skapa inte fler.
 
-Site 02 startas inte härifrån.
+Föreslagen senare adress (ej DNS): `byraflode.exempel.sajtmaskin.se`.
+
+Se `SHOWCASE_PROJECTS.md`.
