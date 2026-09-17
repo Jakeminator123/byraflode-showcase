@@ -28,6 +28,7 @@ Scope: endast site 01. Site 02+ orörd.
 - Byråflöde-projektet: **inte** på detta team (`get_project` → 404)
 - Springa/Glass/Palma/Paddlelines production-alias: **200** (andra Vercel-ytor)
 - Slutsats: Vercel-plugin funkar. Originalprojektet för site 01 går inte att styra härifrån.
+- Efter manuell GitHub-koppling: nytt isolerat projekt `byraflode-showcase` är READY på `06e689b` → https://byraflode-showcase.vercel.app
 
 ### Originalprompt (2026-08-11)
 
